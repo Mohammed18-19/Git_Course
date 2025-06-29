@@ -7,7 +7,6 @@ const user = {
   interests: ["Programming", "Fitness", "Travel", "Business"],
   education: {
     currentStatus: "Student",
-    goal: "Work at Google or Microsoft"
   }
 };
 
